@@ -12,7 +12,7 @@ import numpy as np
 
 import optax
 
-BATCH_IN_SEQUENCES = 384
+BATCH_IN_SEQUENCES = 32
 SEQUENCE_LENGTH = 128
 
 VOCAB_DIM = 256
